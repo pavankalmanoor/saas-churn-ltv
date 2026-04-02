@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pavan/saas-churn-ltv/mlruns/318808916352705727/34b211a545564618bee689db58d1de20/artifacts
+end_time: 1775088044146
+entry_point_name: ''
+experiment_id: '318808916352705727'
+lifecycle_stage: active
+run_id: 34b211a545564618bee689db58d1de20
+run_name: XGBoost_churn_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775088039404
+status: 3
+tags: []
+user_id: pavan

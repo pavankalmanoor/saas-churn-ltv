@@ -1,0 +1,10 @@
+artifact_location: file:///Users/pavan/saas-churn-ltv/mlruns/318808916352705727/models/m-c83c91df0af0401c87476b11f177c310/artifacts
+creation_timestamp: 1775088042379
+experiment_id: '318808916352705727'
+last_updated_timestamp: 1775088044145
+model_id: m-c83c91df0af0401c87476b11f177c310
+model_type: null
+name: XGBoost_churn
+source_run_id: 34b211a545564618bee689db58d1de20
+status: 2
+status_message: null

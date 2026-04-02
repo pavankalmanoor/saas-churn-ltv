@@ -1,0 +1,5 @@
+segment_label,users,churn_rate,avg_monthly_rev,avg_tenure,avg_rfm,avg_adoption,avg_active_days,expected_ltv,total_arr
+⚠️ At Risk,2461,0.35,30.87,12.37,0.46,54.83,9.33,88.2,911653.0
+🏆 Champions,1779,0.24,33.68,12.31,0.62,47.32,21.11,140.33,719001.0
+💚 Loyal Users,2827,0.35,27.7,11.39,0.54,22.68,15.58,79.14,939695.0
+🔴 About to Churn,2933,0.43,27.51,11.13,0.42,23.83,6.56,63.98,968242.0
